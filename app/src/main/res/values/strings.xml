@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareQR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_for_edit_text">Введите текст</string>
+    <string name="text_for_generate_button">СГЕНЕРИРОВАТЬ</string>
+</resources>
